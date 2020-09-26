@@ -1,0 +1,7 @@
+{
+    "name": "",
+    "id": "",
+    "api": "1.0.0",
+    "ui": "dist/ui.html",
+    "main": "dist/core.js"
+}
